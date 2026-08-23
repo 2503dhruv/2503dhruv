@@ -13,7 +13,9 @@
 
 <br/>
 
-
+```bash
+> cat about_me.txt
+```
 
 - 🎓 B.Tech CSE, UPES Dehradun (Class of 2026)
 - 💻 Full-stack developer — MERN stack
@@ -23,7 +25,9 @@
 
 <br/>
 
-
+```bash
+> ls ./tech-stack
+```
 
 <div align="center">
 
@@ -57,6 +61,9 @@
 
 <br/>
 
+```bash
+> git log --stats --author="2503dhruv"
+```
 
 <div align="center">
 
@@ -71,7 +78,9 @@
 
 <br/>
 
-
+```bash
+> ls ./featured-projects
+```
 
 <div align="center">
 
@@ -82,7 +91,9 @@
 
 <br/>
 
-
+```bash
+> curl ./contribution-graph
+```
 
 <div align="center">
 
@@ -92,11 +103,13 @@
 
 <br/>
 
-
+```bash
+> echo "let's connect"
+```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sharma1503/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com/in/YOUR-LINKEDI](https://www.linkedin.com/in/sharma1503/)N)
 [![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dhruvsharma9591@gmail.com)
 
 <br/>
