@@ -20,7 +20,6 @@
 - 🎓 B.Tech CSE, UPES Dehradun (Class of 2026)
 - 💻 Full-stack developer — MERN stack
 - 🧠 Currently exploring RAG (Retrieval-Augmented Generation) models
-- 🌱 Member of [upes-open](https://github.com/upes-open) — campus open source community
 - ⚡ Fun fact: this README was rendered from a terminal, not a template
 
 <br/>
