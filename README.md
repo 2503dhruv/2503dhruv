@@ -70,13 +70,13 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=2503dhruv&show_icons=true&theme=dark&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2503dhruv&layout=compact&theme=dark&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false"/>
 
-<br/>
+<!-- <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=2503dhruv&theme=dark&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border=39FF14" alt="streak stats"/>
 
 </div>
 
-<br/>
+<br/> -->
 
 ```bash
 > ls ./featured-projects
