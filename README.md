@@ -1,19 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=140&section=header&text=whoami&fontColor=39FF14&fontSize=40&fontAlignY=45&desc=Dhruv%20Sharma&descAlignY=68&descColor=c9d1d9&fontFamily=monospace" width="100%"/>
 
-<pre>
-$ whoami
-</pre>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN;B.Tech+CSE+at+UPES+Dehradun+%2726;Exploring+RAG+models+with+Python;Always+shipping+something" alt="Typing SVG" />
 
-<h1>Dhruv Sharma</h1>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+(MERN);B.Tech+CSE+%40+UPES+Dehradun+%272026;Building+with+Python+%2B+RAG+models;console.log(%22Always+shipping%22)" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=39FF14&color=0d1117)](https://github.com/2503dhruv)
-[![Profile Views](https://komarev.com/ghpvc/?username=2503dhruv&style=for-the-badge&color=39FF14&labelColor=0d1117)](https://github.com/2503dhruv)
+[![GitHub](https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/2503dhruv)
+[![Profile Views](https://komarev.com/ghpvc/?username=2503dhruv&style=for-the-badge&color=39FF14&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/2503dhruv)
 
 </div>
 
@@ -115,8 +109,8 @@ $ whoami
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sharma1503/)
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dhruvsharma9591@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR-EMAIL)
 
 <br/>
 
